@@ -1,0 +1,7 @@
+{
+  "name": "Tiendita2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
